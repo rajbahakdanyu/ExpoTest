@@ -1,11 +1,11 @@
 {
     "expo": {
-        "name": "ExpoTest",
-        "slug": "ExpoTest",
+        "name": "Aora",
+        "slug": "Aora",
         "version": "1.0.0",
         "orientation": "portrait",
         "icon": "./assets/images/icon.png",
-        "scheme": "expoTest",
+        "scheme": "aora",
         "userInterfaceStyle": "automatic",
         "splash": {
             "image": "./assets/images/splash.png",
